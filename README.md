@@ -14,4 +14,4 @@ Adding new features such as:
 
 
 # Support the project
-If you'd like to support pissing off YT and Spotify you can do so on Paypal at https://paypal.me/daveafogykos . It's not necessary for the project's existence, it'd just help the development process and keep me invested in it.
+If you'd like to support pissing off YT and Spotify you can do so on Patreon at https://www.patreon.com/nanolocity . It's not necessary for the project's existence, it'd allow me to dedicate more time to the project.
